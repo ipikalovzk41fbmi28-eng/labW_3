@@ -5,6 +5,13 @@ const myProjects = [
         category: "HTML",
         description: "Проєкт написаний на <strong>HTML</strong> з використанням теорії наданої на парах.",
         image: "assets/images/project-1.jpg"
+    },
+    { 
+    id: 2, 
+    title: "Стилізація сторінок портфоліо", 
+    category: "HTML",
+    description: "Проєкт присвячений опануванню базової типографіки, box model та адаптивного компонування.",
+    image: "assets/images/project-2.jpg"
     }
 ];
 
